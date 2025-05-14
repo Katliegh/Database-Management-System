@@ -12,5 +12,5 @@ It tracks patients, doctors, appointments, treatments administered during each a
 
 How to Set Up / Import SQL
 Clone the repo
-git clone 
+git clone https://github.com/Katliegh/Database-Management-System.git
 cd Database-Management-System-week8
