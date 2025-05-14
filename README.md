@@ -2,13 +2,12 @@
 
 Week 8 DBMS assignment
 
-Clinic Booking System Database
-Project Title
+
+# Project Title: Library Management System
 Clinic Booking System Database (MySQL)
 
-Description
-This repository contains a MySQL relational database schema for a clinic booking system.
-It tracks patients, doctors, appointments, treatments administered during each appointment, and prescriptions.
+# Description
+The Library Management System is a relational database project designed to manage and track the operations of a library. It efficiently handles the storage and relationships between books, authors, members, and borrowing records.
 
 How to Set Up / Import SQL
 Clone the repo
